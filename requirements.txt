@@ -1,2 +1,2 @@
-aiogram
+aiogram==3.13.1  # o la última estable: chequeá https://pypi.org/project/aiogram/ → usa 3.13.1 o superior
 aiohttp
